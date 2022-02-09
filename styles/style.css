@@ -22,7 +22,7 @@
 
 .logo {
   width: 183px;
-  z-index: 3
+  z-index: 3;
 }
 .logo_place_header{
   height: 32px;
@@ -178,7 +178,7 @@
   margin-top: 100px;
   height: 890px;
   display: block;
-  position: relative;  
+  position: relative; 
   background-color: #f2f2f2;
 }
 
