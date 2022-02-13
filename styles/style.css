@@ -123,6 +123,9 @@
   font-weight: normal;
 }
 
+.two-columns__paragraph:last-child {
+  padding-bottom: 0; 
+}
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
@@ -293,7 +296,7 @@
   height: 877px;
   margin: 0;
   z-index: 1;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
 }
 
 .footer {
