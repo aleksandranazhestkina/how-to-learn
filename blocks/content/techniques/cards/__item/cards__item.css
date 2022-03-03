@@ -1,0 +1,15 @@
+.cards__item {
+    margin: 0;
+    width: min-content;
+    padding-top: 60px;
+    padding-right: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+
+  .cards__item:nth-of-type(3n) {
+    padding-right: 0px;
+  }
